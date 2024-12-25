@@ -242,3 +242,4 @@ npm install -g next
 This installs Next.js globally
 
 then do the usual `npm run dev`
+# portfolio
